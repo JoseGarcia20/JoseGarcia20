@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Desarrollador Front-end Jr. con diversos conocimientos en HTML5, CSS, Java, etc. Como en diversos ambientes de desarrollo. Centrado en codigos legibles, diseño web y capacitado para el cumplimiento de los objetivos y necesidades de un proyecto de desarrollo.
+Desarrollador Front-end Jr. con diversos conocimientos en HTML5, CSS, Java, etc. Como en diversos ambientes de desarrollo. Centrado en codigos legibles, diseño web y capacitado para el cumplimiento de los objetivos y necesidades de un proyecto de desarrollog.
 
 Algunos datos basicos:
 
-- 🔭 Estudiante de sexto semestre de ing. Sistemas.
-- 🌱 Estoy aprendiendo actualmente la tecnología de Node.js
-- 📫 Correo gjosegarcia167@gmail.com
+- 🔭 Estudiante de sexto semestre de ing. Sistemas
+- 🌱  Actualmente  estoy ampliando mis conocimientos en  JavaScript
+- 📫 Correo  gjosegarcia167@gmail.com    
 
