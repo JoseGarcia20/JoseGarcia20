@@ -4,7 +4,7 @@ Desarrollador Front-end Jr. con diversos conocimientos en HTML5, CSS, Java, etc.
 
 Algunos datos basicos:
 
-- 🔭 Estudiante de sexto semestre de ing. Sistemas
+- 🔭 Tecnologo de Sistemas
 - 🌱  Actualmente  estoy ampliando mis conocimientos en  JavaScript
 - 📫 Correo  gjosegarcia167@gmail.com    
 
